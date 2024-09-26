@@ -1,0 +1,15 @@
+{
+  "name": "targetsistemas",
+  "version": "1.0.0",
+  "description": "Teste para a vaga da empresa Target Sistemas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evandro Machado",
+  "license": "ISC",
+  "dependencies": {
+    "targetsistemas": "file:"
+  }
+}
